@@ -9,7 +9,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1ae74c4-f0ca-499a-8e45-d2de55a60db8" name="Default Changelist" comment="" />
+    <list default="true" id="f1ae74c4-f0ca-499a-8e45-d2de55a60db8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/buses.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/javascripts/buses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,14 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,14 +43,28 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.5.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.7" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,11 +74,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605554218501</updated>
-      <workItem from="1605554219595" duration="32000" />
+      <workItem from="1605554219595" duration="3721000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1605554280680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605554280680</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1389" y="57" key="CommitChangelistDialog2" timestamp="1605554280548">
+      <screen x="-1920" y="-57" width="1920" height="1057" />
+    </state>
+    <state x="-1389" y="57" key="CommitChangelistDialog2/0.23.1440.877/-1920.-57.1920.1057@-1920.-57.1920.1057" timestamp="1605554280548" />
+    <state width="1878" height="132" key="GridCell.Tab.0.bottom" timestamp="1605568778127">
+      <screen x="-1920" y="-57" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="132" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-57.1920.1057@-1920.-57.1920.1057" timestamp="1605568778127" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-57.1920.1057@0.23.1440.877" timestamp="1605555287081" />
+    <state width="1878" height="132" key="GridCell.Tab.0.center" timestamp="1605568778122">
+      <screen x="-1920" y="-57" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="132" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-57.1920.1057@-1920.-57.1920.1057" timestamp="1605568778122" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-57.1920.1057@0.23.1440.877" timestamp="1605555287081" />
+    <state width="1878" height="132" key="GridCell.Tab.0.left" timestamp="1605568778120">
+      <screen x="-1920" y="-57" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="132" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-57.1920.1057@-1920.-57.1920.1057" timestamp="1605568778120" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-57.1920.1057@0.23.1440.877" timestamp="1605555287080" />
+    <state width="1878" height="132" key="GridCell.Tab.0.right" timestamp="1605568778125">
+      <screen x="-1920" y="-57" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="132" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-57.1920.1057@-1920.-57.1920.1057" timestamp="1605568778125" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-57.1920.1057@0.23.1440.877" timestamp="1605555287081" />
   </component>
 </project>
